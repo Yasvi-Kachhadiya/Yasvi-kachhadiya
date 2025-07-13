@@ -5,10 +5,18 @@
 
 🔭 **I’m currently working on:**  <br>Building practical web-based applications, improving my UI/UX design skills, and learning about database management.<br><br>🤝 **I’m looking to collaborate on:**  <br>Web development projects, UI/UX design tasks, and innovative hackathon ideas where teamwork can make an impact.<br><br>💬 **I’m looking for help with:**  <br>Mastering advanced JavaScript concepts, improving backend development skills, and getting better at system design.<br><br>🌱 **I’m currently learning:**  <br>React.js, advanced problem solving in data structures and algorithms, and how to build real-time collaborative platforms.<br><br>💬 **Ask me about:**  <br>Frontend development, basic database design, UI/UX workflows, and creative project planning.<br><br>⚡ **Fun fact:**  <br>I love to cook, dance, and travel when I’m not busy coding!<be>
 
+-------
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yasvi-Kachhadiya&style=flat-square&color=green" alt="Visitor counter"/>
+</p>
+
+-------
 
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/yasvi_kachhadiya) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sXVatCk4) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/yasvi_patel_42/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yasvi-kachhadiya42/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@Yasvi_Kachhadiya) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/yasvi_kachhadiya/_profile/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patelysvi435@gmail.com) 
+
+
 
 
 
