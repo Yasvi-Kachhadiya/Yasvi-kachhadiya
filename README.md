@@ -87,7 +87,6 @@ I love to cook, dance, and travel when I’m not busy coding!
 
 ### 🎨 Design & UI/UX  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 
 
@@ -95,7 +94,7 @@ I love to cook, dance, and travel when I’m not busy coding!
 ### 📊 Data Science & Visualization  
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23049fd9.svg?style=flat&logo=Matplotlib&logoColor=black)
 
 </div>
 
