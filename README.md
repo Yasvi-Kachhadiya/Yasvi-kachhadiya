@@ -5,16 +5,19 @@
 🎓 I'm a **Computer Science Engineering student** entering my **4th year at Nirma University.**  
 💻 I’m passionate about **web development, UI/UX design, and solving real-life problems with technology.**
 
-🔭 **I’m currently working on:**  
-Building practical web-based applications, improving my UI/UX design skills, and learning about database management.  
-🤝 **I’m looking to collaborate on:**  
-Web development projects, UI/UX design tasks, and innovative hackathon ideas where teamwork can make an impact.  
-💬 **I’m looking for help with:**  
-Mastering advanced JavaScript concepts, improving backend development skills, and getting better at system design.  
-🌱 **I’m currently learning:**  
-React.js, advanced problem solving in data structures and algorithms, and how to build real-time collaborative platforms.  
+
+
+<p align="center">
+With a growing command over <b>JavaScript</b>, <b>React.js</b>, and <b>UI/UX principles</b>, I enjoy crafting intuitive digital experiences. I'm exploring the intersection of frontend development and user-centered design.
+</p>
+
+<p align="center">
+Currently open to junior roles or internships that offer hands-on development, design thinking, and collaborative learning. Let’s build something impactful together!
+</p>
+
 💬 **Ask me about:**  
-Frontend development, basic database design, UI/UX workflows, and creative project planning.  
+Frontend development, basic database design, UI/UX workflows, and creative project planning. 
+
 ⚡ **Fun fact:**  
 I love to cook, dance, and travel when I’m not busy coding!
 
