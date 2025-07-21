@@ -3,6 +3,7 @@
 # 👋 Hello, I’m Yasvi Kachhadiya!
 
 🎓 I'm a **Computer Science Engineering student** entering my **4th year at Nirma University.**  
+
 💻 I’m passionate about **web development, UI/UX design, and solving real-life problems with technology.**
 
 
@@ -35,11 +36,8 @@ I love to cook, dance, and travel when I’m not busy coding!
 
 ## 🌐 Connect with me:
 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/yasvi_kachhadiya)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sXVatCk4)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasvi-kachhadiya42/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Yasvi_Kachhadiya)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://in.pinterest.com/yasvi_kachhadiya/_profile/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patelysvi435@gmail.com)
 
 </div>
@@ -76,14 +74,6 @@ I love to cook, dance, and travel when I’m not busy coding!
 ### 🗄️ Databases  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-
-
-
-### ☁️ Cloud & Dev Tools  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
-
 
 
 ### 🎨 Design & UI/UX  
