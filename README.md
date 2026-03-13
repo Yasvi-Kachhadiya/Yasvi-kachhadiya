@@ -4,7 +4,7 @@
 
 🎓 I'm a **Computer Science Engineering student** entering my **4th year at Nirma University.**  
 
-💻 I’m passionate about **web development, Data Analytics, and solving real-life problems with technology.**
+💻 I’m passionate about **Data Engineering, Data Analytics, and solving real-life problems with technology.**
 
 
 
@@ -13,7 +13,7 @@ Currently open to junior roles or internships that offer hands-on development, d
 </p>
 
 💬 **Ask me about:**  
-Frontend development, basic database design, UI/UX workflows, Data Analysis/Visualization, and creative project planning. 
+Data-driven solutions, basic database design, UI/UX workflows, Data Analysis/Visualization, and creative project planning. 
 
 ⚡ **Fun fact:**  
 I love to cook, dance, and travel when I’m not busy coding!
